@@ -1,2 +1,4 @@
 "merge" 
+"branch4" 
 "master" 
+Changes while merging
