@@ -1,2 +1,4 @@
 "file" 
+"master" 
 "branch6" 
+Changes while merging
