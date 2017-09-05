@@ -1,2 +1,4 @@
 "merge" 
+"This is from master branch" 
 "this is from release branch" 
+This is from changes while merging
